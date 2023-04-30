@@ -1,0 +1,15 @@
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\bin\Debug\net6.0\consolas-and-telim.exe
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\bin\Debug\net6.0\consolas-and-telim.deps.json
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\bin\Debug\net6.0\consolas-and-telim.runtimeconfig.json
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\bin\Debug\net6.0\consolas-and-telim.dll
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\bin\Debug\net6.0\consolas-and-telim.pdb
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.csproj.AssemblyReference.cache
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.AssemblyInfoInputs.cache
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.AssemblyInfo.cs
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.csproj.CoreCompileInputs.cache
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.dll
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\refint\consolas-and-telim.dll
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.pdb
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\consolas-and-telim.genruntimeconfig.cache
+C:\Users\wande\Desktop\C# Players Guide\consolas-and-telim\obj\Debug\net6.0\ref\consolas-and-telim.dll
