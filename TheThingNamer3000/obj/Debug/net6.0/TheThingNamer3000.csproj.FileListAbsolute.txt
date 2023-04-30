@@ -1,0 +1,15 @@
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.exe
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.deps.json
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.runtimeconfig.json
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.dll
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.pdb
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.csproj.AssemblyReference.cache
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.AssemblyInfoInputs.cache
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.AssemblyInfo.cs
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.csproj.CoreCompileInputs.cache
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.dll
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\refint\TheThingNamer3000.dll
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.pdb
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.genruntimeconfig.cache
+C:\Users\wande\Desktop\C# Players Guide\CSharpPlayersGuide-5thEd\TheThingNamer3000\obj\Debug\net6.0\ref\TheThingNamer3000.dll
